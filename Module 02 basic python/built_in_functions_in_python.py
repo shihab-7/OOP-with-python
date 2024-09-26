@@ -1,0 +1,5 @@
+highest = max(10,12,13,14,15,100)
+smallest = min(10,12,13,14,15,100)
+total = sum([10,12,13,14,15,100])
+count = len([10,12,13,14,15,100])
+print(highest, smallest, count, total)
